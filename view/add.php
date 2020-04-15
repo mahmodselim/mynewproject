@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>register form</title>
+    <title>register by mahmoud selim !!!!</title>
 </head>
 <body>
 <form  method="post" action="../controller/insert.php" >
      username : <input type="text" name="username">
-<!--    --><?php //if(isset($usernameErr)):php echo $full_nameErr;?><!--</span>-->
 
     <br><br>
     Full_name :  <input type="text" name="full_name">
